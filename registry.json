@@ -5,8 +5,17 @@
         "description": "The new moderation plugin for Pebblo Support",
         "bot_version": "2.20.1",
         "title": "Moderation",
-        "icon_url": "https://i.imgur.com/951szZ3.jpg",
-        "thumbnail_url": "https://i.imgur.com/951szZ3.jpg"
+        "icon_url": "https://screenshotting.site/i/d9f44e.png",
+        "thumbnail_url": "https://screenshotting.site/i/d9f44e.png"
+    },
+    "reports": {
+        "repository": "UponAnonymous/modmail-plugins",
+        "branch": "master",
+        "description": "The new report plugin for Pebblo Support",
+        "bot_version": "2.20.1",
+        "title": "Reports",
+        "icon_url": "https://screenshotting.site/i/596c46.png",
+        "thumbnail_url": "https://screenshotting.site/i/596c46.png"
     },
     "profanity-filter": {
         "repository": "kyb3r/modmail-plugins",
