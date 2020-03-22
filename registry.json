@@ -2,9 +2,9 @@
     "moderation": {
         "repository": "UponAnonymous/modmail-plugins",
         "branch": "master",
-        "description": "The new moderation plugin lulul",
+        "description": "The new moderation plugin for Pebblo Support",
         "bot_version": "2.20.1",
-        "title": "Our custom doooood",
+        "title": "Moderation",
         "icon_url": "https://i.imgur.com/951szZ3.jpg",
         "thumbnail_url": "https://i.imgur.com/951szZ3.jpg"
     },
